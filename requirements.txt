@@ -28,3 +28,4 @@ youtube-search
 youtube-search-python
 httpx[http2]==0.27.2
 bs4
+youtube_dl==2021.12.17
