@@ -30,7 +30,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], callback_data="LG"),
-            InlineKeyboardButton(text=_["S_B_7"], url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/Silenthrex/107"),
         ],
     ]
     return buttons
