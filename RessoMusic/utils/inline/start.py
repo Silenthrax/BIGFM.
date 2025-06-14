@@ -19,7 +19,6 @@ def start_panel(_):
 def private_panel(_):
     buttons = [
         [
-            InlineKeyboardButton(text=_["Aʟʟ Bᴏᴛ"], url=https://t.me/Silenthrex/107),
             InlineKeyboardButton(
                 text=_["S_B_3"],
                 url=f"https://t.me/{app.username}?startgroup=true",
